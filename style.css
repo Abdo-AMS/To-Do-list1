@@ -1,0 +1,53 @@
+*{ box-sizing: border-box;}
+body{font-size: 15px;
+color: #fff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+#div1{text-align: center;
+    background-color: rgb(18, 2, 58);
+    margin: auto;
+    padding: 40px;
+    border-radius: 5px;
+    position: absolute;
+    top: 290px;
+    bottom: 10px;
+    right: 0;
+    left: 0;
+    width: 900px;
+    height: 90%;
+}
+#para{
+    color: black;
+    background-color: gainsboro;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: auto;
+    /*padding: 30px;*/
+    position: absolute;
+    top: 130px;
+    right: 0; left: 0;
+    width: 200px; height: 20px;
+}
+/*#para{
+    background-color: crimson;
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+    margin-left: 27%;
+    margin-top: 0px;
+}*/
+#img{width: 20%; height: 20%; 
+    margin-left: 0px; margin-top: 0px;}
+
+#btn1{border-radius: 5px;
+background-color:rgb(189, 213, 208); }
+#in1{width: 200px;}
+#btn1{width: 70px;
+font-weight: bold;}
+#in1:hover{background-color: rgb(189, 213, 208);}
+#inDate:hover{background-color: rgb(189, 213, 208);}
+#inTime:hover{background-color: rgb(189, 213, 208);}
+input{border-radius: 5px;}
+button{ border-radius: 5px;}
+
